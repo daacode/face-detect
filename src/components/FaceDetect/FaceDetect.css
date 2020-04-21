@@ -1,6 +1,6 @@
 .bounding-box {
   position: absolute;
-  box-shadow: 0 0 6px #149df2 inset;
+  box-shadow: 0 0 0 3px #fff inset;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
