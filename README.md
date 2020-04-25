@@ -1,4 +1,4 @@
-A Final project for my Article on Building A Facial Recognition web app with React
+A Final project for my Article on Building A Facial Recognition web app with React and Clarifai
 
 Clone this repo
 
